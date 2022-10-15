@@ -1,0 +1,20 @@
+Create the project for any web application example using agile methodology (SCRUM
+TEMPLATE).
+
+(6 ISSUES)&gt;&gt;&gt;&gt; 4 STORY , 1 TASK, BUG
+I. Create components
+II. Plan the version with release dates
+III.Create sprint backlog, start sprint and complete sprint
+IV.Create different types of issues in the backlog.
+-Epic –provide epic link also
+- Story
+Initialize story point, Associate with Version, component ---
+Divide into sub-tasks :::::Give estimate time
+Give time log work and comment it as well. -Clone the story.
+-task
+-bug - Link with issues story
+View workflows also.
+V. Evaluate burn down, burn up, analyse the sprint report and velocity charts.
+
+Submit the screen shoots of Backlog, burn down, burn up, sprint report and velocity
+charts for the sprint.(From your login only)
