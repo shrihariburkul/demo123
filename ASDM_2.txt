@@ -17,6 +17,10 @@ View workflows also.
 V. Evaluate burn down, burn up, analyse the sprint report and velocity charts.
 
 Submit the screen shoots of Backlog, burn down, burn up, sprint report and velocity
+<<<<<<< HEAD
 charts for the sprint.(From your login only)
 
 ********************************************shri******************************************
+=======
+charts for the sprint.(From your login only)
+>>>>>>> 9de21351ea4592278230bfb60931bc58a0c5c632
